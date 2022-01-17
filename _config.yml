@@ -6,7 +6,7 @@ email: 916108538@qq.com
 description: "志之所及，皆为征途"
 keyword: "sirius, docker"
 url: "https://sirius.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://zhengweihou.github.io/sirius.github.io/"  # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
